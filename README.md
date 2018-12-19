@@ -1,13 +1,13 @@
-Notes from Forked Repository Owner -- CShorten
+# Notes from Forked Repository Owner -- CShorten
 
-Goals for Cloned Repository
+# Goals for Cloned Repository
 -- Testing AutoAugment on a Dataset Combined with GAN-generated samples
 -- Converted run.py to Jupyter Notebook
 -- Custom Data Loading
 -- Hyperparameter search on the meta-learning scheme
 
 
-# Notes from Original Author -- rpmcruz
+### Notes from Original Author -- rpmcruz
 
 My attempt at reproducing the following paper from Google. I have used Keras and TensorFlow.
 
