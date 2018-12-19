@@ -1,13 +1,13 @@
 # Notes from Forked Repository Owner -- CShorten
 
-# Goals for Cloned Repository
--- Testing AutoAugment on a Dataset Combined with GAN-generated samples
--- Converted run.py to Jupyter Notebook
--- Custom Data Loading
--- Hyperparameter search on the meta-learning scheme
+## Goals for Cloned Repository
+## Testing AutoAugment on a Dataset Combined with GAN-generated samples
+### Converted run.py to Jupyter Notebook
+### Custom Data Loading
+### Hyperparameter search on the meta-learning scheme
 
 
-### Notes from Original Author -- rpmcruz
+## Notes from Original Author -- rpmcruz
 
 My attempt at reproducing the following paper from Google. I have used Keras and TensorFlow.
 
@@ -25,5 +25,3 @@ The **controller** is trained in order to maximize the derivative of its outputs
 All this is implemented in the `fit()` function which can be found inside each class.
 
 *Disclaimer:* I am unsure whether the code resembles that of the authors. I have used a lot of information [from this other paper](https://arxiv.org/abs/1707.07012), which is the main citation from AutoAugment.
-
-# Forked repository from rpmcruz.
