@@ -1,7 +1,6 @@
 # Notes from Forked Repository Owner -- CShorten
 
-## Goals for Cloned Repository
-## Testing AutoAugment on a Dataset Combined with GAN-generated samples
+### Testing AutoAugment on a Dataset Combined with GAN-generated samples
 ### Converted run.py to Jupyter Notebook
 ### Custom Data Loading
 ### Hyperparameter search on the meta-learning scheme
